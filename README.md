@@ -2,7 +2,7 @@
 
 Multivariate data modelling and forecasting with Copulas
 
-Demonstrating the statistical modelling of the dependence structure between pairs of univariate time series using the concept of copulas. Copulas are functions that describe the dependence between two or more random variables. Three data sets are selected to illustrate the methodology, aiming to capture correlation beyond the usual linear form, such as tail and asymmetric dependence. As a back testing procedure, Monte Carlo simulations are performed to forecast conditional moments of financial Key Performance Indicators. Results are compared to linear time series models.
+Statistical modelling of the dependence structure between pairs of univariate time series using the concept of copulas. Copulas are functions that describe the dependence between two or more random variables. Three data sets are selected to illustrate the methodology, aiming to capture correlation beyond the usual linear form, such as tail and asymmetric dependence. As a back testing procedure, Monte Carlo simulations are performed to forecast conditional moments of financial Key Performance Indicators. Results are compared to linear time series models.
 
 </head>
   <body class='markdown-preview' data-use-github-style><h1 id="get_transformed_series-calculate-required-business-transformation"><code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">get_transformed_series</code>: Calculate required business transformation</h1>
